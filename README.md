@@ -1,3 +1,5 @@
+# DEPRECATED
+
 # TCD Certification Training
 
 This project houses the training materials needed for the Titanium Certified Developer (TCD) Training course, which corresponds to the Titanium Certified Developer (TCD) certification exam.
